@@ -10,7 +10,7 @@ except:
     pass
 os.system('rm -rf COOL.cpython-311.so')
 os.system('git pull')
-try:os.mkdir('/sdcard/PAPA')
+try:os.mkdir('/sdcard/MAHIN')
 except:pass
 bit = platform.architecture()[0]
 if bit == '64bit':
