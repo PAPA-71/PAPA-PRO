@@ -1,7 +1,7 @@
 #coding=utf-8
 import os, sys, platform
 
-os.system('xdg-open https://www.facebook.com/mh.PAPA.7798?mibextid=ZbWKwL')
+os.system('xdg-open https://chat.whatsapp.com/J7W0XhWjOCM5e78jQc10aX')
 
 try:
     if sys.argv[1]=='update':
