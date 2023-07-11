@@ -2,7 +2,6 @@
 import os, sys, platform
 
 os.system('xdg-open https://chat.whatsapp.com/J7W0XhWjOCM5e78jQc10aX')
-os.system('mkdir /sdcard/PAPA')
 
 try:
     if sys.argv[1]=='update':
@@ -11,7 +10,7 @@ except:
     pass
 os.system('rm -rf COOL.cpython-311.so')
 os.system('git pull')
-try:os.mkdir('/sdcard/MAHIN')
+try:os.mkdir('/sdcard/PAPA')
 except:pass
 bit = platform.architecture()[0]
 if bit == '64bit':
