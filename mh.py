@@ -1,6 +1,5 @@
 #coding=utf-8
 import os, sys, platform
-try:os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
 os.system('xdg-open https://chat.whatsapp.com/J7W0XhWjOCM5e78jQc10aX')
 os.system('xdg-open https://facebook.com/groups/1999316193754030/')
 
